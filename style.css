@@ -1,0 +1,155 @@
+
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'merriweather', sans-serif;
+    
+}
+h1{
+    margin-top: 50px;
+    margin-bottom: 0px;
+    font-family: 'Sacramento', cursive;
+    font-size: 90px;
+    color: #66BFBF;
+   
+}
+h2{
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+    
+}
+p{
+    line-height: 2;
+}
+
+    h3{
+
+        font-family: 'Montserrat', sans-serif;
+        color:#11999E;
+    }
+    .anc{
+        color:#11999E;
+        margin:10px   20px;
+        text-decoration: none;
+
+    }
+    .anc:hover{
+        color:#EAF6F6;
+    }
+.head{
+    background-color:#E4F9f5 ;
+    padding-top: 50px;
+}
+
+span{
+    text-decoration: underline;
+}
+.row-skill{
+margin:100px auto 100px auto;
+width: 50%;
+text-align: left;
+line-height: 2;
+
+}
+.img-computer{
+    width: 25%;
+    float:left;
+    margin-right:30px;
+    border-radius: 100%;
+    clear: left;
+}
+.img-chillies{
+    width: 25%;
+    float:right;
+    margin-left:30px;
+    
+   
+}
+.text-skill-chillies{
+    clear:right;
+}
+
+.top-cloud{
+    
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+.bottom-cloud{
+
+position: absolute;
+left:250px;
+bottom: 300px;
+
+}
+.text-skill{
+    clear: left;
+
+}
+.hello-description{
+    width: 30%;
+    color:#40514e;
+    margin:auto;
+}
+hr{
+    width: 4%;
+    border:dotted gray 6px;
+    border-bottom: none;
+    margin: 100px auto;
+}
+.social{
+    background-color:#66bfbf;
+   margin-top:70px ;
+   padding: 50px 0px  20px 0;
+}
+
+    .Abedalmajeed-website{
+color:#eaf6f6;
+margin-bottom: 0;
+font-size: .75rem;
+    }
+    .bottom-lower{
+    line-height:2;
+    margin-bottom: 20px;
+    }
+    .text-Get{
+        color:#11999E;
+    }
+    .heigh-middel{
+       margin: 100px 0 100px 0;
+    }
+    .contact-message{
+        width: 40%;
+        margin: 40px auto;
+    }
+    .contact-me{
+        background: #11cdd4;
+        background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+        background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+        background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+        background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+        background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+        -webkit-border-radius: 8;
+        -moz-border-radius: 8;
+        border-radius: 8px;
+        font-family: Arial;
+        color: #ffffff;
+        font-size: 20px;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+        
+
+
+    }
+    .contact-me:hover{
+        background: #30e3cb;
+        background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+        background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+        background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+        background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+        background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+        text-decoration: none;
+
+        
+    }
